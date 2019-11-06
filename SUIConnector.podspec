@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name              = 'SUIConnector'
-    s.version           = 'demoPreProd'
+    s.version           = '1.0-demoPreProd'
     s.summary           = 'SUIConnector'
     s.homepage          = 'http://www.gfk.com/'
     s.author            = { 'GfK' => 'info@gfk.com' }
